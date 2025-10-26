@@ -1,0 +1,6 @@
+django>=4.2
+psycopg2-binary>=2.9
+djangorestframework>=3.14
+djangorestframework-simplejwt>=5.2
+python-telegram-bot>=13.0
+croniter>=1.3
